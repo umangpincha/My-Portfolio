@@ -1,6 +1,6 @@
 # My portfolio ![my-portfolio](https://img.shields.io/badge/Umang%20Pincha-Portfolio-blue)
 
-![My Portfolio Snapshot](./my_portfolio.PNG)
+![My Imge](./my_portfolio.PNG)
 
 #### By Umang Pincha
 
