@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap");
+
+* {
+  margin: 0;
+  overflow: 0;
+  padding: 0;
+}
+body {
+  background-color: #cad5e2;
+}
+
+.home {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)),
+    url("../images/bg.jpg");
+  background-size: cover;
+}
+
+.anime_logo img {
+  width: 80px;
+  border-radius: 20px;
+  padding: 10px;
+}
+.intro {
+  color: #ffffff;
+  padding: 10% 20%;
+  text-align: justify;
+  font-family: "Montserrat", sans-serif;
+}
+
+.intro p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  opacity: 0.7;
+}
+
+.intro h1 {
+  font-family: "Roboto Mono", monospace;
+}
+
+button {
+  margin: 0 auto;
+  display: block;
+}
+
+.btn {
+  background-color: transparent;
+  border: 2px solid #1f1f1f;
+  border-radius: 0.6em;
+  color: #1f1f1f;
+  font-size: 2rem;
+  padding: 0.2% 1%;
+  cursor: grab;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Montserrat";
+  font-weight: 900;
+}
+
+.btn:hover {
+  color: #fff;
+}
+
+.lco {
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+
+
